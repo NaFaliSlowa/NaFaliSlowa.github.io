@@ -1,5 +1,6 @@
 # NaFaliSlowa.github.io
 Strona poświęcona twórczości Anety Jasłowskiej
+
 Twórcy, którego autorskie prawa osobiste zostały naruszone bądź zagrożone, przysługuje przede wszystkim 
                 roszczenie o zaniechanie tego działania. W przypadku, gdy doszło już do naruszenia tych praw, 
                 twórcy przysługuje roszczenie o przywrócenie stanu poprzedniego, czyli usunięcie przez sprawcę skutków naruszenia. 
