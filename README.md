@@ -1,4 +1,4 @@
-# NaFaliSlowa.github.io
+# Na Fali Słowa
 Strona poświęcona twórczości Anety Jasłowskiej
 
 Twórcy, którego autorskie prawa osobiste zostały naruszone bądź zagrożone, przysługuje przede wszystkim 
