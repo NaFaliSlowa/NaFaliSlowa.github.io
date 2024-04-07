@@ -2,6 +2,7 @@
 var iconLink = document.createElement("link");
 iconLink.rel = "icon";
 iconLink.href = "/1.img/icon.png";
+iconLink.type = "image/png";
 
 // Tworzenie linku do preconnect
 var preconnectLink1 = document.createElement("link");
