@@ -1,8 +1,9 @@
 //head
 var iconLink = document.createElement("link");
 iconLink.rel = "icon";
-iconLink.href = "/favicon.png";
 iconLink.type = "image/png";
+iconLink.sizes = "64x64";
+iconLink.href = "favicon.png";
 
 // Tworzenie linku do preconnect
 var preconnectLink1 = document.createElement("link");
